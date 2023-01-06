@@ -1,5 +1,4 @@
 import videoSrc from "../public/videos/main.mp4";
-import mainImageSrc from "../public/images/mainImage.jpg";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -9,7 +8,7 @@ const Section = () => {
       <section>
         <div className="video_container">
           <video muted loop autoPlay>
-            <source src={videoSrc} />
+            <source src="/videos/main.mp4" />
           </video>
         </div>
         <Link href="tel:010-7762-0416">
