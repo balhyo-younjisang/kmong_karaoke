@@ -36,7 +36,7 @@ const Section = () => {
             최저가 주대금액
           </p>
           <p style={{ color: "blue", fontSize: "3rem", fontWeight: "bolder" }}>
-            수원 인계동 1등 호스트바
+            수원 인계동 1등 가라오케
             <br />
             Suwon No.1 KARAOKE
           </p>
