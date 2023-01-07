@@ -40,7 +40,7 @@ const Section = () => {
             <br />
             Suwon No.1 KARAOKE
           </p>
-          <h3>ONLY 고정선수 항시 대기</h3>
+          <h3>ONLY 고정아가씨 항시 대기</h3>
           <h3>
             말보다는 행동으로 앞서 수원에서는 최고라는 것을 보여드리겠습니다.
           </h3>
