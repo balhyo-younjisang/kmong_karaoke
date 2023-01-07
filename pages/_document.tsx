@@ -13,6 +13,7 @@ export default function Document() {
           name="google-site-verification"
           content="QdphTifotFjFMLKz59ci4kDyIBugg_RJ_zerxkpMgDk"
         />
+        <meta name="naver-site-verification" content="b2a8b9fc9ee8b07e3e6b05816d1471bf897e8296" />
         <meta
           name="description"
           content="수원 인계동 넘버원 가라오케 010 7762 0416"
